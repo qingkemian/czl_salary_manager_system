@@ -88,10 +88,28 @@
             box-shadow: 0 0 5px 5px rgba(0,0,0,0.4);
 
             color: white;
+
+            overflow: scroll;
+        }
+
+        #contents::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        #contents::-webkit-scrollbar-thumb {
+            background-color: #d9d9d9;
+        }
+
+        th{
+            color:white;
+        }
+
+        td{
+            color:white;
         }
 
         .staff-table{
-            margin-left: 100px;
+            margin-left: 300px;
         }
         .table-title{
             text-align: center;

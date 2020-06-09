@@ -88,6 +88,16 @@
             box-shadow: 0 0 5px 5px rgba(0,0,0,0.4);
 
             color: white;
+
+            overflow: scroll;
+        }
+
+        #contents::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        #contents::-webkit-scrollbar-thumb {
+            background-color: #d9d9d9;
         }
 
         .staff-salary-cal{
@@ -97,6 +107,32 @@
 
         .staff-salary-table{
             margin-left: 100px;
+        }
+
+        .staff-name{
+            margin-left: 30px;
+        }
+        .table-title{
+            text-align: center;
+            color: white;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        th{
+            color:white;
+        }
+
+        td{
+            color:white;
+        }
+
+        .staff-salary-table{
+            margin-left: 400px;
+        }
+
+        .submit-txt{
+            color: #FF7373;
         }
     </style>
 </head>

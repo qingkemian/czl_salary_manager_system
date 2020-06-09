@@ -86,6 +86,18 @@
             box-sizing: border-box;
             /*添加阴影*/
             box-shadow: 0 0 5px 5px rgba(0,0,0,0.4);
+
+            color: white;
+
+            overflow: scroll;
+        }
+
+        #contents::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        #contents::-webkit-scrollbar-thumb {
+            background-color: #d9d9d9;
         }
 
         table{
