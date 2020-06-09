@@ -77,9 +77,6 @@
       <change afterPath="$PROJECT_DIR$/../../web/request.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/session.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/SalaryServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/SalaryServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlet/InputSalaryInfoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/InputSalaryInfoServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ExcelUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -151,7 +148,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/servlet/OutputSalaryInfoServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
+            <state relative-caret-position="250">
               <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -287,6 +284,24 @@
             <path>
               <item name="czl_salary_manager_system" type="b2602c69:ProjectViewProjectNode" />
               <item name="czl_salary_manager_system" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="czl_salary_manager_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="czl_salary_manager_system" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="czl_salary_manager_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="czl_salary_manager_system" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="czl_salary_manager_system_war_exploded" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="czl_salary_manager_system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="czl_salary_manager_system" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -328,7 +343,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591694822990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591696446018" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -441,7 +456,7 @@
       <updated>1591621873720</updated>
       <workItem from="1591621878842" duration="5650000" />
       <workItem from="1591665322269" duration="8192000" />
-      <workItem from="1591688506707" duration="6160000" />
+      <workItem from="1591688506707" duration="7015000" />
     </task>
     <task id="LOCAL-00001" summary="javaweb大作业，css未完成">
       <created>1591670321151</created>
@@ -464,11 +479,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591691912751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="javaweb大作业，css未完成">
+      <created>1591694930877</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591694930877</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20002000" />
+    <option name="totallyTimeSpent" value="20857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,7 +503,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -524,10 +545,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="javaweb大作业，css未完成" />
     <MESSAGE value="基本css完成" />
     <MESSAGE value="css完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="css完成" />
+    <MESSAGE value="javaweb大作业，css未完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaweb大作业，css未完成" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/lib/c3p0-config.xml" />
@@ -881,7 +902,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/servlet/OutputSalaryInfoServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="250">
           <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
