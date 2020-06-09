@@ -74,7 +74,7 @@ public class SalaryServer {
         }
         return true;
     }
-    public boolean updateYearSalary(Staff staff, int salaryYear)
+    public boolean updateYearSalary(Staff staff,int salaryYear)
     {
         try {
             return salaryDao.updateYearSalary(staff,salaryYear);

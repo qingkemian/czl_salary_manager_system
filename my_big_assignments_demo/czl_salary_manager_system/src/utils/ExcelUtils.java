@@ -57,7 +57,7 @@ public class ExcelUtils {
         }
         return salaryList;
     }
-    public static void WriteExcvel(List<Salary> salaryList, String path, String name) throws Exception {
+    public static void WriteExcvel(List<Salary> salaryList,String path,String name) throws Exception {
         XSSFWorkbook xssfWorkbook =new XSSFWorkbook();
         XSSFSheet sheet=xssfWorkbook.createSheet("员工工资表");
         XSSFRow row=sheet.createRow(0);
