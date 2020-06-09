@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0cdfe0e-c133-4973-906c-240e24ad07a4" name="默认" comment="">
+    <list default="true" id="b0cdfe0e-c133-4973-906c-240e24ad07a4" name="默认" comment="javaweb大作业，css未完成">
       <change afterPath="$PROJECT_DIR$/../../javaweb_demo4/.idea/artifacts/javaweb_demo4_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../javaweb_demo4/.idea/libraries/servlet_api.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../javaweb_demo4/.idea/misc.xml" afterDir="false" />
@@ -33,75 +33,6 @@
       <change afterPath="$PROJECT_DIR$/../../javaweb_demo4/web/showallarticle.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../javaweb_demo4/web/showarticle.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../javaweb_demo4/web/shownewarticle.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/czl_salary_manager_system_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/czl_salary_manager_system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/SalaryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/StaffDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/DeptServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/SalaryServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/StaffServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/UserServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/CalaDeptSalaryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/CalaStaffSalaryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/DeleteDeptServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/DeleteStaffServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/EditDeptServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/EditStaffServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/IndexServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/InputSalaryInfoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/OutputSalaryInfoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/ShowDeptListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/ShowDeptSalaryTableServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/ShowEditDeptServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/ShowEditStaffServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/ShowStaffListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/ShowStaffSalaryTableServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/UpdateYearSalaryServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/DBUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/ShowDeptSalaryTable.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/ShowStaffSalaryTable.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections4-4.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-compress-1.18.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-schemas-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xmlbeans-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/deptEdit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/deptinfoManager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/hander.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/salaryinfoManager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/staffEdit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/staffinfoManager.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../program/.idea/libraries/servlet_api.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../program/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../program/src/czl/controller/Controller.java" afterDir="false" />
@@ -145,6 +76,13 @@
       <change afterPath="$PROJECT_DIR$/../../web/out.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/request.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/session.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/ShowDeptSalaryTable.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/ShowDeptSalaryTable.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/ShowStaffSalaryTable.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/ShowStaffSalaryTable.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/deptinfoManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/deptinfoManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/salaryinfoManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/salaryinfoManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/staffEdit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/staffEdit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/staffinfoManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/staffinfoManager.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -168,7 +106,7 @@
         <counts>
           <entry key="class" value="1" />
           <entry key="java" value="69" />
-          <entry key="jsp" value="37" />
+          <entry key="jsp" value="43" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
@@ -176,20 +114,22 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="69" />
-          <entry key="JSP" value="37" />
+          <entry key="JSP" value="43" />
           <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="38" />
-          <entry key="jsp" value="14" />
+          <entry key="jsp" value="43" />
+          <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="38" />
-          <entry key="JSP" value="14" />
+          <entry key="JSP" value="43" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -197,10 +137,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/deptEdit.jsp">
+        <entry file="file://$PROJECT_DIR$/web/staffinfoManager.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="190" selection-start-line="190" selection-end-line="191" />
+            <state relative-caret-position="540">
+              <caret line="113" column="12" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -255,16 +195,16 @@
         <option value="$PROJECT_DIR$/src/servlet/UpdateYearSalaryServlet.java" />
         <option value="$PROJECT_DIR$/web/WEB-INF/deptEdit.jsp" />
         <option value="$PROJECT_DIR$/web/salaryinfoManage.jsp" />
-        <option value="$PROJECT_DIR$/web/deptinfoManager.jsp" />
         <option value="$PROJECT_DIR$/web/hander.jsp" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/deptEdit.jsp" />
+        <option value="$PROJECT_DIR$/web/deptinfoManager.jsp" />
+        <option value="$PROJECT_DIR$/web/salaryinfoManager.jsp" />
         <option value="$PROJECT_DIR$/web/ShowDeptSalaryTable.jsp" />
         <option value="$PROJECT_DIR$/web/ShowStaffSalaryTable.jsp" />
         <option value="$PROJECT_DIR$/web/staffEdit.jsp" />
         <option value="$PROJECT_DIR$/web/staffinfoManager.jsp" />
-        <option value="$PROJECT_DIR$/web/salaryinfoManager.jsp" />
-        <option value="$PROJECT_DIR$/web/login.jsp" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/web/deptEdit.jsp" />
       </list>
     </option>
   </component>
@@ -324,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591670283392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591674612430" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -436,12 +376,20 @@
       <option name="presentableId" value="Default" />
       <updated>1591621873720</updated>
       <workItem from="1591621878842" duration="5650000" />
-      <workItem from="1591665322269" duration="3843000" />
+      <workItem from="1591665322269" duration="8054000" />
     </task>
+    <task id="LOCAL-00001" summary="javaweb大作业，css未完成">
+      <created>1591670321151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591670321151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9493000" />
+    <option name="totallyTimeSpent" value="13704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,18 +413,18 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32980973" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33615223" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49888888" visible="true" weight="0.33615223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32980973" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32980973" />
-      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49888888" weight="0.32980973" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32980973" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011111" side_tool="true" visible="true" weight="0.32980973" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011111" side_tool="true" weight="0.33615223" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32980973" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49888888" visible="true" weight="0.32980973" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49888888" weight="0.32980973" />
       <window_info anchor="bottom" id="调试" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -495,6 +443,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="javaweb大作业，css未完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaweb大作业，css未完成" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/lib/c3p0-config.xml" />
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
@@ -511,6 +463,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -743,6 +698,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -770,6 +728,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -787,32 +748,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/deptEdit.jsp" />
     <entry file="file://$PROJECT_DIR$/web/salaryinfoManage.jsp" />
-    <entry file="file://$PROJECT_DIR$/web/deptinfoManager.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/staffEdit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1501">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ShowDeptSalaryTable.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2413">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar!/com/mchange/v2/c3p0/DriverManagerDataSource.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -824,13 +767,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/salaryinfoManager.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -841,20 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/staffinfoManager.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/ShowStaffSalaryTable.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -874,8 +799,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/deptEdit.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
+        <state relative-caret-position="2991">
           <caret line="190" selection-start-line="190" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/salaryinfoManager.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/deptinfoManager.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="103" column="29" lean-forward="true" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ShowDeptSalaryTable.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="100" selection-start-line="100" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/ShowStaffSalaryTable.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/staffEdit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/staffinfoManager.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="113" column="12" selection-start-line="113" selection-start-column="12" selection-end-line="113" selection-end-column="12" />
         </state>
       </provider>
     </entry>
